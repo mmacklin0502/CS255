@@ -1,6 +1,4 @@
 # Kayla Macklin
 CS255 - System Analysis and Design
 
-March-April 2025
-
-Hello and welcome to my GitHub CS255 repository. 
+The DriverPass project was created to help people get ready for their driver's license test. The client wanted an easy-to-use platform where users could find study materials, take practice tests, and get personalized feedback to increase their chances of passing. One thing that was done really well was making sure the system was easy to navigate and user-friendly. A clear interface with simple navigation made it accessible for users with different levels of tech skills. If there was one part of the project to improve, it would be the user feedback feature. While the system gives guidance, making it more interactive—like offering personalized learning paths based on how well someone is doing—could make it even better. User research was super important in developing the system. Getting feedback from potential users helped identify their problems and preferences, making sure the features met their actual needs. Focusing on what users want is crucial in system design because it increases engagement and adoption. A structured approach was used, following best practices in system architecture. In the future, strategies like modular design, iterative development, and usability testing will be important for enhancing upcoming projects.
